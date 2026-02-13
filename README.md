@@ -2,7 +2,7 @@
 
 Este é um projeto de portfólio pessoal desenvolvido para demonstrar competências em desenvolvimento web front-end. O objetivo foi criar uma página de perfil profissional que seja moderna, interativa e totalmente responsiva, aplicando conceitos fundamentais e avançados de HTML5, CSS3 e JavaScript.
 
-### 🔗 [Veja o projeto ao vivo aqui!](https://tenchini.github.io/atividade-4-maispraTi/)
+### 🔗 [Veja o projeto ao vivo aqui!](https://tenchini.github.io/portfolio-mais-prati/)
 
 ![Screenshot do Portfólio](https://i.imgur.com/ydl62XU.png)
 
